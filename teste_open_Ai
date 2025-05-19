@@ -1,0 +1,6 @@
+my-agent-project/
+├── api/
+│   └── agent.js
+├── package.json
+├── .env
+└── vercel.json
